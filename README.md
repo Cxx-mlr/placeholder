@@ -119,3 +119,7 @@ int main() {
 1: Veritas - https://godbolt.org/z/Bz2T-1 \
 2: Melak47 - https://godbolt.org/z/KCTB3X \
 3: Cxx     - README.md
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
