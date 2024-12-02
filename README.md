@@ -1,5 +1,6 @@
 # PlaceHolder
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+A proof of concept demonstrating a compile-time mapping mechanism with placeholders in C++. This concept uses templates, structs, and custom operators to enable elegant and efficient assignment and retrieval of values based on placeholder types.
     
 ```cpp
 #include <iostream>
